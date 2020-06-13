@@ -1,6 +1,5 @@
-# interview_question_bitmasked
+# interview_question_smallest_notes
 
 Below is the problem statment.
 
-![alt text](https://drive.google.com/file/d/18X2HMNJVt5BGmJ8ysJR_jBcE4Eo_GLG6/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1Ncc4zyFyvdgWzGgi3m_1dkqHl0XikOQ0/view?usp=sharing)
+https://github.com/srkhan2809/interview_question/blob/smallest_notes/smallest_note.png
