@@ -1,6 +1,7 @@
 # interview_question
 
-This Repository will have interview question which I have tried to solved while taking programming test.
+This program will intake the length of array and add up to zero 
+Below is the problem statement.
 
-Please check multiple branches for multiple problems.. 
-Problems are "NOT" saved on master branch.
+
+
